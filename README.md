@@ -12,7 +12,8 @@
 | `rules/Custom_ChatGPT.lsr` | 7 | `ChatGPT` | ChatGPT / OpenAI / Sora 补充 |
 | `rules/Custom_Claude.lsr` | 4 | `Claude` | Claude / Anthropic / Artifacts 补充 |
 | `rules/Custom_Gemini.lsr` | 9 | `Gemini` | Gemini / AI Studio / Labs 补充 |
-| `rules/Custom_AppleAI.lsr` | 7 | `AppleAI` | Apple Intelligence 专属分流 |
+| `rules/Custom_AppleAI.lsr` | 7 | `AppleAI` | Apple Intelligence 专属分流（国内纯直连时可关闭） |
+| `rules/Custom_V2EX.lsr` | 2 | `V2EX` | V2EX 专属分流（推荐自建干净 IP 防 Cloudflare 验证） |
 | `rules/Custom_Media.lsr` | 16 | `海外流媒体` | 自定义流媒体与视频站（需排在 `CN REGION` 之前） |
 | `rules/Custom_JP.lsr` | 1 | `日本稳定策略` | 自定义日本线路域名 |
 | `rules/Custom_Direct.lsr` | 46 | `DIRECT` | 自定义国内直连、音乐、图床及虚拟网段 |
@@ -27,6 +28,7 @@ https://raw.githubusercontent.com/BeanJelly/loon-rules/main/rules/Custom_Grok.ls
 https://raw.githubusercontent.com/BeanJelly/loon-rules/main/rules/Custom_ChatGPT.lsr, policy=ChatGPT, tag=ChatGPT自定义, enabled=true
 https://raw.githubusercontent.com/BeanJelly/loon-rules/main/rules/Custom_Claude.lsr, policy=Claude, tag=Claude自定义, enabled=true
 https://raw.githubusercontent.com/BeanJelly/loon-rules/main/rules/Custom_Gemini.lsr, policy=Gemini, tag=Gemini自定义, enabled=true
+https://raw.githubusercontent.com/BeanJelly/loon-rules/main/rules/Custom_V2EX.lsr, policy=V2EX, tag=V2EX, enabled=true
 https://raw.githubusercontent.com/BeanJelly/loon-rules/main/rules/Custom_JP.lsr, policy=日本稳定策略, tag=自定义日本, enabled=true
 https://raw.githubusercontent.com/BeanJelly/loon-rules/main/rules/Custom_Media.lsr, policy=海外流媒体, tag=自定义视频流媒体, enabled=true
 https://raw.githubusercontent.com/BeanJelly/loon-rules/main/rules/Custom_AppleAI.lsr, policy=AppleAI, tag=AppleAI, enabled=true
