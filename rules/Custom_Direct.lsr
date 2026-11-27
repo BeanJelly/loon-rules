@@ -1,0 +1,57 @@
+# NAME: Custom_Direct
+# DESC: Custom Direct Rules (Domestic Apps, Music, Image Hosts, Fake-IP)
+# AUTHOR: BeanJelly
+# REPO: https://github.com/BeanJelly/loon-rules
+# UPDATED: 2026-11-27 14:10:00
+# DOMAIN: 11
+# DOMAIN-SUFFIX: 32
+# IP-CIDR: 2
+# IP-CIDR6: 1
+# TOTAL: 46
+
+DOMAIN,c.y.qq.com
+DOMAIN,litter.catbox.moe
+DOMAIN,litterbox.catbox.moe
+DOMAIN,m.kugou.com
+DOMAIN,m.kuwo.cn
+DOMAIN,music.163.com
+DOMAIN,paste.c-net.org
+DOMAIN,sv.baidu.com
+DOMAIN,svip.czzyplay.com
+DOMAIN,y.hmusic.top
+DOMAIN,yo.baidu.com
+DOMAIN-SUFFIX,9ddm.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,cbread.cn
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,ffzy-online6.com
+DOMAIN-SUFFIX,fqnovel.com
+DOMAIN-SUFFIX,fqnovelpic.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,jimxtc.com
+DOMAIN-SUFFIX,kairos.qq.com
+DOMAIN-SUFFIX,kuaikaw.cn
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,manju.v.qq.com
+DOMAIN-SUFFIX,qmplaylet.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,rongjuwh.cn
+DOMAIN-SUFFIX,shytkjgs.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,tc.qq.com
+DOMAIN-SUFFIX,uguu.se
+DOMAIN-SUFFIX,video.qq.com
+DOMAIN-SUFFIX,whjzjx.cn
+DOMAIN-SUFFIX,wtzw.com
+DOMAIN-SUFFIX,xingya.com.cn
+DOMAIN-SUFFIX,zqqds.cn
+IP-CIDR,198.18.0.0/15,no-resolve
+IP-CIDR,28.0.0.0/8,no-resolve
+IP-CIDR6,fc00::/18,no-resolve

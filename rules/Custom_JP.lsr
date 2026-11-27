@@ -1,0 +1,9 @@
+# NAME: Custom_JP
+# DESC: Custom Japan Route Rules
+# AUTHOR: BeanJelly
+# REPO: https://github.com/BeanJelly/loon-rules
+# UPDATED: 2026-11-27 14:10:00
+# DOMAIN: 1
+# TOTAL: 1
+
+DOMAIN,money.wangmazi.net

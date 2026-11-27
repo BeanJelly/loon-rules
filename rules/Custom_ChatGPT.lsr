@@ -1,0 +1,15 @@
+# NAME: Custom_ChatGPT
+# DESC: ChatGPT / OpenAI Core Supplement
+# AUTHOR: BeanJelly
+# REPO: https://github.com/BeanJelly/loon-rules
+# UPDATED: 2026-11-27 14:10:00
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
+
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.com

@@ -1,0 +1,11 @@
+# 严格排除所有 Loon 配置文件、旧格式规则、订阅与证书私钥，严禁上传云端
+*.lcf
+*.list
+*.conf
+*.yaml
+*.yml
+*.p12
+*.pem
+*.key
+.DS_Store
+Thumbs.db

@@ -1,0 +1,24 @@
+# NAME: Custom_Media
+# DESC: Custom Streaming & Video Sites (Must stay above CN REGION due to .cn domains)
+# AUTHOR: BeanJelly
+# REPO: https://github.com/BeanJelly/loon-rules
+# UPDATED: 2026-11-27 14:10:00
+# DOMAIN-SUFFIX: 16
+# TOTAL: 16
+
+DOMAIN-SUFFIX,91crdjai.com
+DOMAIN-SUFFIX,bmikbxhi.cc
+DOMAIN-SUFFIX,chengguodj.com
+DOMAIN-SUFFIX,drleao.cn
+DOMAIN-SUFFIX,gyezbp.cn
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,hembed.com
+DOMAIN-SUFFIX,hgdju.com
+DOMAIN-SUFFIX,hhjd.mobi
+DOMAIN-SUFFIX,huangguo.video
+DOMAIN-SUFFIX,huangguoai.com
+DOMAIN-SUFFIX,hzjvlo.cn
+DOMAIN-SUFFIX,iili.io
+DOMAIN-SUFFIX,ohjzmm.cn
+DOMAIN-SUFFIX,rlhjeyuvw.cc
+DOMAIN-SUFFIX,zvdumduz.cc

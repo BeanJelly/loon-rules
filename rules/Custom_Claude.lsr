@@ -1,0 +1,12 @@
+# NAME: Custom_Claude
+# DESC: Claude / Anthropic Core Supplement
+# AUTHOR: BeanJelly
+# REPO: https://github.com/BeanJelly/loon-rules
+# UPDATED: 2026-11-27 14:10:00
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
